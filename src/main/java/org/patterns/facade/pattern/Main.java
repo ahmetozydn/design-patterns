@@ -1,4 +1,4 @@
-package org.example.facade.pattern;
+package org.patterns.facade.pattern;
 
 // Client
 public class Main {

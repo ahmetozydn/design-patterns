@@ -1,4 +1,4 @@
-package org.example.facade.pattern;
+package org.patterns.facade.pattern;
 
 // Facade
 
@@ -8,16 +8,6 @@ package org.example.facade.pattern;
 * complexities of the underlying system and presents a higher-level interface that is easier to use.
 * The Facade pattern promotes loose coupling between clients and the system's components,
 * making the code more maintainable and understandable.
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
 */
 class BankFacade {
     private Account account;

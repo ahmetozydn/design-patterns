@@ -1,4 +1,4 @@
-package org.example.builder.pattern;
+package org.patterns.builder.pattern;
 
 // Usage
 public class Main {

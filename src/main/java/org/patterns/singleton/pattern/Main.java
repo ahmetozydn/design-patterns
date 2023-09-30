@@ -1,4 +1,4 @@
-package org.example.singleton.pattern;
+package org.patterns.singleton.pattern;
 
 /*
 
